@@ -1,0 +1,12 @@
+.Container{
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+    align-items: center;
+    }
+.Container div{
+    background-color: rgb(rgb(38, 0, 255), green, blue);
+    border : 5px Solid rgb(134, 16, 36);
+    height : 100px;
+    width:180px;
+}
