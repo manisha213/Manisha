@@ -1,8 +1,0 @@
-.Monitor{
-    border: 2px solid pink;
-}
-.Fixed{
-    border: 2px solid blue;
-    position: relative;
-    top:2px;
-}
