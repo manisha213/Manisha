@@ -1,0 +1,16 @@
+.container{
+    margin-top: 20px;
+    box-shade: 0px 4px 8px black;
+    padding: 8px 10px;
+    border-radius: 1-px;
+    display: inline-block;
+}
+.btn{
+    padding: 5px 5px;
+    border-radius: 8px;
+    background-color: darkmagenta;
+    color: chartreuse;
+
+}
+
+.
